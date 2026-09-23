@@ -1,2 +1,2 @@
 # Software_Design_ComputerLaboratoryLaptopBrowsingSystem
-t will provide a secure, centralized platform for students to log in, access laptops, and conduct browsing sessions under supervision. Administrators will benefit from automated monitoring, reporting tools, and alerts for non-academic activities, thereby reducing manual workload and enhancing operational efficiency. 
+This will provide a secure, centralized platform for students to log in, access laptops, and conduct browsing sessions under supervision. Administrators will benefit from automated monitoring, reporting tools, and alerts for non-academic activities, thereby reducing manual workload and enhancing operational efficiency. Jherylyn, Nica, Glenn, Shieryl
